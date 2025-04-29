@@ -1,6 +1,6 @@
 #### 🚀 Backend & DevOps Engineer
 
-Engineer with deep experience in **software testing** and **automation**, focused on building **scalable**, **cloud-native systems** using **Go**, **DevOps** best practices, and **AWS**.
+Software Engineer with deep experience in **automation** and **testing**, focused on building **scalable**, **cloud-native systems** using **Go**, **DevOps** best practices, and **AWS**.
 
 
 
