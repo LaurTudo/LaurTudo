@@ -1,10 +1,11 @@
-# 🚀 Backend & DevOps Engineer
+#### 🚀 Backend & DevOps Engineer
 
 Engineer with deep experience in **software testing** and **automation**, focused on building **scalable**, **cloud-native systems** using **Go**, **DevOps** best practices, and **AWS**.
 
 
 
-## 💻 What I Do
+#### 💻 What I Do
+<small>
 
 - Develop scalable backend services in **Go**  
 - Build & maintain CI/CD pipelines (GitHub Actions, Jenkins)  
@@ -12,41 +13,41 @@ Engineer with deep experience in **software testing** and **automation**, focuse
 - Manage cloud infrastructure with **Terraform** and **AWS**  
 - Write automation scripts for DevOps workflows  
 
+</small>
 
 
-## 🔧 Tech Stack
+#### 🔧 Tech Stack
+<small>
 
-**Languages & Tools:**  Go • Python • Bash • Docker • Linux  
-**Cloud & Infra:**  AWS (certified) • Terraform  
-**CI/CD & Testing:**  GitHub Actions • Jenkins • VectorCAST • GoogleTest • GoTest  
+Go • Python • Bash • Docker • Linux • AWS (certified) • Terraform • GitHub Actions • Jenkins • VectorCAST • GoogleTest • GoTest  
+
+</small>
 
 
-
-## 🏆 Highlights
+#### 🏆 Highlights
+<small>
 
 - Built Go tool to automate test result verification — saved 8s/test across 10k+ tests  
-- Contributed to ISO 26262 / ASPICE Level 2 certification 
-- Built infrastructure and backend logic for high-reliability embedded systems
+- Contributed to ISO 26262 / ASPICE Level 2 certification (automotive)  
+
+</small>
 
 
-
-## 📜 Certification
+#### 📜 Certification
+<small>
 
 - AWS Certified Cloud Practitioner  
 
----
+</small>
 
-## 📍 Looking For
+#### 📍 Looking For Remote roles in Cloud / Backend / DevOps  
 
-**Remote** roles in **Cloud / Backend / DevOps**  
-Focused on **Go**, **AWS**, and automation-driven workflows
+#### 📫 Let’s Connect
+<small>
 
+[LinkedIn](https://linkedin.com/in/laurentiu-tudorascu)
 
-
-## 📫 Let’s Connect
-
-[LinkedIn →](https://linkedin.com/in/laurentiu-tudorascu)
-
-
+</small>
 
 💡 *Build. Test. Learn. Repeat.*
+readme.md make text smaller
