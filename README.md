@@ -1,49 +1,52 @@
-🚀 **Backend & DevOps Engineer** with deep experience in software testing and automation — focused on building scalable, cloud-native systems using **Go**, **DevOps** practices and **AWS**.
+# 🚀 Backend & DevOps Engineer
 
----
+Engineer with deep experience in **software testing** and **automation**, focused on building **scalable**, **cloud-native systems** using **Go**, **DevOps** best practices, and **AWS**.
 
-💻 **What I Do**
+
+
+## 💻 What I Do
 
 - Develop scalable backend services in **Golang**  
-- Design and maintain CI/CD pipelines (GitHub Actions, Jenkins) 
-- Testing & Automation: Unit, Integration, Qualification | GoTest, GoogleTest, VectorCast  
-- Build and manage infrastructure using **Terraform** and **AWS**  
-- Automation scripts for DevOps workflows
-- Automate everything — from test validation to cloud deployments
+- Build & maintain CI/CD pipelines (GitHub Actions, Jenkins)  
+- Automate testing (Unit, Integration, Qualification) — **GoTest**, **GoogleTest**, **VectorCAST**  
+- Manage cloud infrastructure with **Terraform** and **AWS**  
+- Write automation scripts for DevOps workflows  
+
+
+
+## 🔧 Tech Stack
+
+**Languages & Tools:**  Go • Python • Bash • Docker • Linux  
+**Cloud & Infra:**  AWS (certified) • Terraform  
+**CI/CD & Testing:**  GitHub Actions • Jenkins • VectorCAST • GoogleTest • GoTest  
+
+
+
+## 🏆 Highlights
+
+- Built Go tool to automate test result verification — saved 8s/test across 10k+ tests  
+- Contributed to ISO 26262 / ASPICE Level 2 certification (automotive)  
+- Designed backend + infra for high-reliability embedded systems  
+
+
+
+## 📜 Certification
+
+- ✅ AWS Certified Cloud Practitioner  
 
 ---
 
-🔧 **Tech Toolbox**
+## 📍 Looking For
 
-Go • Python • Bash • AWS (certified) • Docker • Terraform • GitHub Actions • Jenkins • Linux • VectorCAST • GoogleTest
+**Remote** roles in **Cloud / Backend / DevOps**  
+Focused on **Go**, **AWS**, and automation-driven workflows
 
----
 
-🏆 **Key Contributions**
 
-- Developed Go application to automate test results verification and management - saving about 8 seconds per test for over 10k tests
-- Contributed to ISO 26262 ASPICE Level 2 certification audits in the automotive domain  
-- Built infrastructure and backend logic for high-reliability embedded systems
+## 📫 Let’s Connect
 
----
+[LinkedIn →](https://linkedin.com/in/laurentiu-tudorascu)
 
-📜 **Certifications**
 
-- AWS Certified Cloud Practitioner
 
----
-
-📍 **Looking For**
-
-- Cloud / Backend / DevOps roles — **remote only**  
-- Focused on Go, AWS, and automation-driven engineering
-
----
-
-📫 **Let’s Connect**
-
-- [LinkedIn Profile](https://linkedin.com/in/laurentiu-tudorascu)
-
----
-
-💡 Build. Test. Learn. Repeat.
+💡 *Build. Test. Learn. Repeat.*
