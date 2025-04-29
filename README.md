@@ -6,7 +6,7 @@ Engineer with deep experience in **software testing** and **automation**, focuse
 
 ## 💻 What I Do
 
-- Develop scalable backend services in **Golang**  
+- Develop scalable backend services in **Go**  
 - Build & maintain CI/CD pipelines (GitHub Actions, Jenkins)  
 - Automate testing (Unit, Integration, Qualification) — **GoTest**, **GoogleTest**, **VectorCAST**  
 - Manage cloud infrastructure with **Terraform** and **AWS**  
