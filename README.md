@@ -25,14 +25,14 @@ Engineer with deep experience in **software testing** and **automation**, focuse
 ## 🏆 Highlights
 
 - Built Go tool to automate test result verification — saved 8s/test across 10k+ tests  
-- Contributed to ISO 26262 / ASPICE Level 2 certification (automotive)  
-- Designed backend + infra for high-reliability embedded systems  
+- Contributed to ISO 26262 / ASPICE Level 2 certification 
+- Built infrastructure and backend logic for high-reliability embedded systems
 
 
 
 ## 📜 Certification
 
-- ✅ AWS Certified Cloud Practitioner  
+- AWS Certified Cloud Practitioner  
 
 ---
 
