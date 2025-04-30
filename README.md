@@ -1,6 +1,6 @@
 #### 🚀 Backend & DevOps Engineer
 
-Software Engineer with deep experience in **automation** and **testing**, focused on building **scalable**, **cloud-native systems** using **Go**, **DevOps** best practices, and **AWS**.
+AWS-Certified Software Engineer with deep experience in **automation** and **testing**, focused on building **scalable**, **cloud-native systems** using **Go** and **DevOps** best practices.
 
 
 
@@ -32,13 +32,6 @@ Go • Python • Bash • Docker • Linux • AWS (certified) • Terraform �
 
 </small>
 
-
-#### 📜 Certification
-<small>
-
-- AWS Certified Cloud Practitioner  
-
-</small>
 
 #### 📍 Looking For Remote roles in Cloud / Backend / DevOps  
 
