@@ -43,4 +43,3 @@ Go • Python • Bash • Docker • Linux • AWS (certified) • Terraform �
 </small>
 
 💡 *Build. Test. Learn. Repeat.*
-readme.md make text smaller
